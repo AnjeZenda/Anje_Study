@@ -1,2 +1,2 @@
-# Repo_Anje
-Some repo for my learning git and gh
+# Anje_study
+This repo consists different laboratory works and projects from my study
