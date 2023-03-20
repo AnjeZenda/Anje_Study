@@ -1,0 +1,136 @@
+[Error]: Attempt to enter field's incorrect values
+
+[Error]: Attempt to enter player's incorrect values
+
+[Info]: Player set the observer
+[Info]: Field set the observer
+[Acts]: Damage curse event invoked: 2
+[Acts]: Player health changed to 68
+[Acts]: Your mana was increased
+[Acts]: Player's mana: 20
+[Acts]: Damage curse event invoked: 11
+[Acts]: Player health changed to 57
+[Acts]: Broke blocked cells
+[Info]: Cell(1;2) change passability to 1
+[Info]: Cell(2;2) change passability to 1
+[Info]: Cell(3;2) change passability to 1
+[Info]: Cell(1;4) change passability to 1
+[Info]: Cell(2;4) change passability to 1
+[Error]: Attempt to step on a blocked cell
+[Acts]: Field was reversed
+[Info]: Cell(1;0) change event to DamageCurseEvent
+[Info]: Cell(2;0) change event to DamageCurseEvent
+[Info]: Cell(3;0) change event to DamageCurseEvent
+[Info]: Cell(5;0) change event to DamageCurseEvent
+[Info]: Cell(6;0) change event to HealthEvent
+[Info]: Cell(7;0) change event to CurseEvent
+[Info]: Cell(8;0) change event to CurseEvent
+[Info]: Cell(9;0) change event to CurseEvent
+[Info]: Cell(11;0) change event to DamageCurseEvent
+[Info]: Cell(12;0) change event to ReverseField
+[Info]: Cell(4;1) change event to ChangePassability
+[Info]: Cell(5;1) change event to DamageCurseEvent
+[Info]: Cell(6;1) change event to CurseEvent
+[Info]: Cell(9;1) change event to DamageCurseEvent
+[Info]: Cell(10;1) change event to DamageCurseEvent
+[Info]: Cell(11;1) change event to DamageCurseEvent
+[Info]: Cell(12;1) change event to DamageCurseEvent
+[Info]: Cell(4;2) change event to DamageCurseEvent
+[Info]: Cell(5;2) change event to DamageCurseEvent
+[Info]: Cell(7;2) change event to CurseEvent
+[Info]: Cell(8;2) change event to ChangePassability
+[Info]: Cell(9;2) change event to ManaEvent
+[Info]: Cell(10;2) change event to DamageCurseEvent
+[Info]: Cell(11;2) change event to DamageCurseEvent
+[Info]: Cell(12;2) change event to CurseEvent
+[Info]: Cell(1;3) change event to DamageCurseEvent
+[Info]: Cell(3;3) change event to DamageCurseEvent
+[Info]: Cell(4;3) change event to DamageCurseEvent
+[Info]: Cell(5;3) change event to DamageCurseEvent
+[Info]: Cell(7;3) change event to DamageCurseEvent
+[Info]: Cell(9;3) change event to DamageCurseEvent
+[Info]: Cell(12;3) change event to DamageCurseEvent
+[Info]: Cell(0;4) change event to ChangePassability
+[Info]: Cell(3;4) change event to ManaEvent
+[Info]: Cell(5;4) change event to DamageCurseEvent
+[Info]: Cell(6;4) change event to DamageCurseEvent
+[Info]: Cell(7;4) change event to ManaEvent
+[Info]: Cell(8;4) change event to DamageCurseEvent
+[Info]: Cell(9;4) change event to DamageCurseEvent
+[Info]: Cell(10;4) change event to CurseEvent
+[Info]: Cell(11;4) change event to ChangePassability
+[Info]: Cell(2;5) change event to ReverseField
+[Info]: Cell(3;5) change event to CurseEvent
+[Info]: Cell(4;5) change event to CurseEvent
+[Info]: Cell(5;5) change event to ChangePassability
+[Info]: Cell(6;5) change event to CurseEvent
+[Info]: Cell(7;5) change event to ReverseField
+[Info]: Cell(8;5) change event to CurseEvent
+[Info]: Cell(11;5) change event to DamageCurseEvent
+[Info]: Cell(12;5) change event to DamageCurseEvent
+[Info]: Cell(1;6) change event to DamageCurseEvent
+[Info]: Cell(2;6) change event to ManaEvent
+[Info]: Cell(3;6) change event to DamageCurseEvent
+[Info]: Cell(4;6) change event to ReverseField
+[Info]: Cell(5;6) change event to ManaEvent
+[Info]: Cell(6;6) change event to DamageCurseEvent
+[Info]: Cell(8;6) change event to DamageCurseEvent
+[Info]: Cell(9;6) change event to CurseEvent
+[Info]: Cell(10;6) change event to DamageCurseEvent
+[Info]: Cell(12;6) change event to DamageCurseEvent
+[Info]: Cell(1;7) change event to DamageCurseEvent
+[Info]: Cell(2;7) change event to DamageCurseEvent
+[Info]: Cell(3;7) change event to DamageCurseEvent
+[Info]: Cell(6;7) change event to DamageCurseEvent
+[Info]: Cell(7;7) change event to DamageCurseEvent
+[Info]: Cell(8;7) change event to DamageCurseEvent
+[Info]: Cell(9;7) change event to DamageCurseEvent
+[Info]: Cell(11;7) change event to DamageCurseEvent
+[Info]: Cell(1;8) change event to HealthEvent
+[Info]: Cell(2;8) change event to DamageCurseEvent
+[Info]: Cell(4;8) change event to DamageCurseEvent
+[Info]: Cell(5;8) change event to DamageCurseEvent
+[Info]: Cell(6;8) change event to ChangePassability
+[Info]: Cell(7;8) change event to DamageCurseEvent
+[Info]: Cell(8;8) change event to ChangePassability
+[Info]: Cell(9;8) change event to DamageCurseEvent
+[Info]: Cell(10;8) change event to DamageCurseEvent
+[Info]: Cell(11;8) change event to CurseEvent
+[Info]: Cell(0;9) change event to DamageCurseEvent
+[Info]: Cell(1;9) change event to CurseEvent
+[Info]: Cell(2;9) change event to ManaEvent
+[Info]: Cell(4;9) change event to DamageCurseEvent
+[Info]: Cell(5;9) change event to CurseEvent
+[Info]: Cell(7;9) change event to CurseEvent
+[Info]: Cell(8;9) change event to ReverseField
+[Info]: Cell(9;9) change event to DamageCurseEvent
+[Info]: Cell(10;9) change event to CurseEvent
+[Info]: Cell(12;9) change event to ChangePassability
+[Info]: Cell(0;10) change event to ReverseField
+[Info]: Cell(2;10) change event to DamageCurseEvent
+[Info]: Cell(3;10) change event to ReverseField
+[Info]: Cell(4;10) change event to DamageCurseEvent
+[Info]: Cell(5;10) change event to ReverseField
+[Info]: Cell(9;10) change event to DamageCurseEvent
+[Info]: Cell(10;10) change event to ManaEvent
+[Info]: Cell(12;10) change event to DamageCurseEvent
+[Info]: Cell(0;11) change event to DamageCurseEvent
+[Info]: Cell(1;11) change event to DamageCurseEvent
+[Info]: Cell(2;11) change event to CurseEvent
+[Info]: Cell(3;11) change event to ChangePassability
+[Info]: Cell(4;11) change event to DamageCurseEvent
+[Info]: Cell(7;11) change event to HealthEvent
+[Info]: Cell(8;11) change event to DamageCurseEvent
+[Info]: Cell(9;11) change event to ManaEvent
+[Info]: Cell(10;11) change event to DamageCurseEvent
+[Info]: Cell(11;11) change event to CurseEvent
+[Info]: Cell(12;11) change event to DamageCurseEvent
+[Acts]: Damage curse event invoked: 18
+[Acts]: Player health changed to 39
+[Acts]: Damage curse event invoked: 5
+[Acts]: Player health changed to 34
+[Acts]: Damage curse event invoked: 33
+[Acts]: Player health changed to 1
+[Acts]: Exit event invoked
+[Acts]: Exit event invoked
+[Acts]: Exit event invoked
